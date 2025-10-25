@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+site_theme               : "air" # Currently available options are "default", "air"
+title                    : "Somnus's website"
 title_separator          : "-"
 name                     : &name "Somnus"
 description              : &description "Somnus's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -28,7 +28,7 @@ author:
   pronouns         : "he/him"  
   bio              : "Student @ NYCU"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : # exampleS: "NYCU"
   uri              : # URL
   email            : "jieyou.1107@gmail.com" 
 
